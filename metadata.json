@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire Tournaments",
+  "description": "Premium Free Fire Esports tournament app featuring automatic prize distribution, real-time brackets, admin panel, verification, QR system, secure wallets, and welcome bonus rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
